@@ -1,2 +1,2 @@
-# PetProject
+# PetProjects
 My Pet Projects
